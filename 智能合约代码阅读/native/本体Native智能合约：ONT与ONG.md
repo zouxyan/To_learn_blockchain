@@ -87,4 +87,4 @@ func RegisterOngContract(native *native.NativeService) {
 
 - ONT最小单位为1，是否会影响币价？
 
-  
+  以后会继续写心得，请老师不吝指教~
